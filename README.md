@@ -1,4 +1,4 @@
-## Extention-File-Seperator
+# Extention-File-Seperator
 
 It is a simple python based extension files seperator.
 
@@ -7,7 +7,7 @@ It is used to separate extension files like mp4,docx,pdf or etc into an individu
 For example:
 - If you have any audio files of extensions like mp3,m4a,.wav,etc.Then it will create a new file called audioFiles where your all audio files will be stored.
 
-# This project uses the following modules of python:
+## This project uses the following modules of python:
 
 - os module
 - shutil module
